@@ -1,0 +1,5 @@
+order_name,po_number_defect,amount_defect,receiver_name_defect,vendor_name_defect
+BATAL,FALSE,FALSE,FALSE,FALSE
+JOBAL,FALSE,FALSE,FALSE,TRUE
+SAG & LOCH,FALSE,FALSE,FALSE,FALSE
+TARAFA,FALSE,FALSE,FALSE,FALSE
